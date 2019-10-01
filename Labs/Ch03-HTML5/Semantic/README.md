@@ -10,12 +10,9 @@
  
 1. In your project directory create a new directory called `LoremIpsum`. Inside of this new directory create a new file `lorem-ipsum.html`. 
 
-1. In this file, type html and from the template choose the template with the word `html` in a white box with dotted bottom border. (View the screenshot in this directory if needed).
+1. In this file, type html and from the template choose the Emmet Abbreviation `html:5`
 
-1. Notice and make changes:
-    * the title tag is highlighted - type Lorem Ipsum.
-    * there is a link to an external stylesheet `main.css` that has media set to `screen`. Change this value to `all`. We will use this in the CSS section.
-    * there is a `<script>` element that we do not need - remove it.
+1. The title tag is highlighted - type Lorem Ipsum.
 
 1. In the HTML file's `<body>` element, create a `<header>` element.
 
