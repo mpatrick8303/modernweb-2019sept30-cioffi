@@ -7,3 +7,6 @@ http://www.karmoxie.com
 ### It contains Demos, Cheat sheets, and Instructions for Labs
 
 ### If you have questions, please contact the author judy@karmoxie.com"# MyWebCourse" 
+
+
+http://moxie.pro/2019sept30web
